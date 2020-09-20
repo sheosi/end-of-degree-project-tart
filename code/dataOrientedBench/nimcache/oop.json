@@ -1,0 +1,21 @@
+{"compile":[
+["/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/oop.c", "gcc -c  -w  -I/opt/nim-0.17.2/lib -o '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/oop.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/oop.c'"],
+["/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_system.c", "gcc -c  -w  -I/opt/nim-0.17.2/lib -o '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_system.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_system.c'"],
+],
+"link":[
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/oop.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_system.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/allegro5_al.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_macros.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_strutils.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_parseutils.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_math.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_algorithm.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_os.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_times.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_posix.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_ospaths.o'",
+"'/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/common.o'"
+],
+"linkcmd": "gcc   -o '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/oop'  '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/oop.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_system.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/allegro5_al.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_macros.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_strutils.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_parseutils.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_math.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_algorithm.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_os.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_times.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_posix.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/stdlib_ospaths.o' '/home/sergio/Clase/4\u00BA - Segundo cuatrimestre/TFG/code/dataOrientedBench/nimcache/common.o'  -lm -lrt   -ldl"
+}

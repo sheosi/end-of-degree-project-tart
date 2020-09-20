@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52.29446mm"
+   height="58.380783mm"
+   viewBox="0 0 52.29446 58.380783"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Arquitectura - Núcleo Desglosado.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1911"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1889678"
+         id="feGaussianBlur1913" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-188.15226"
+     inkscape:cy="74.678949"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.043924,-67.521535)">
+    <circle
+       id="path1262"
+       style="fill:#7b4141;fill-opacity:1;stroke-width:0.16688159"
+       r="26.14723"
+       cy="99.755089"
+       cx="55.191154" />
+    <path
+       style="fill:#5bd5c7;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:0.37898093"
+       id="path1235"
+       sodipodi:type="arc"
+       sodipodi:cx="66.074966"
+       sodipodi:cy="67.757446"
+       sodipodi:rx="0.11811756"
+       sodipodi:ry="0.23623511"
+       sodipodi:start="4.7647489"
+       sodipodi:end="5.3930674"
+       d="m 66.081148,67.521535 a 0.11811756,0.23623511 0 0 1 0.06815,0.05232 l -0.07433,0.183589 z" />
+    <circle
+       id="circle1830"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.23539816;filter:url(#filter1911)"
+       r="19.81613"
+       cy="99.755089"
+       cx="55.191154"
+       transform="matrix(1.1190713,0,0,1.1190713,-6.5716787,-11.877961)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1915"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1917"><rect
+           id="rect1919"
+           width="94.64286"
+           height="51.07143"
+           x="165.71428"
+           y="355.37683" /></flowRegion><flowPara
+         id="flowPara1921">Núcleo</flowPara></flowRoot>    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 183.08984,296.83594 a 84.181318,84.181318 0 0 0 -58.67382,80.1914 84.181318,84.181318 0 0 0 0.125,3.53516 h 58.54882 z"
+       id="path2279"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 224.10742,294.33984 v 86.22266 h 68.49414 a 84.181317,84.181317 0 0 0 0.17578,-3.53516 84.181317,84.181317 0 0 0 -68.66992,-82.6875 z"
+       id="path2293"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 208.5957,292.8457 a 84.181317,84.181317 0 0 0 -25.50586,3.99024 v 83.72656 h 41.01758 V 294.33984 A 84.181317,84.181317 0 0 0 208.5957,292.8457 Z"
+       id="path2298"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 256.32617,400.51367 v 45.73438 a 84.181317,84.181317 0 0 0 32.95508,-45.73438 z"
+       transform="scale(0.26458333)"
+       id="circle2308"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 124.54102,380.57227 a 84.181318,84.181318 0 0 0 3.375,19.9414 h 161.36523 a 84.181318,84.181318 0 0 0 3.31836,-19.9414 z"
+       transform="scale(0.26458333)"
+       id="path2321"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 151.82422,438.89844 a 84.181316,84.181316 0 0 0 56.77148,22.31054 84.181316,84.181316 0 0 0 47.73047,-14.96093 v -7.34961 z"
+       transform="scale(0.26458333)"
+       id="path2339"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 127.91602,400.51367 a 84.181315,84.181315 0 0 0 23.9082,38.38477 h 17.12305 v -38.38477 z"
+       transform="scale(0.26458333)"
+       id="path2347"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 209.10742,400.51367 v 38.38477 h 47.21875 v -38.38477 z"
+       id="path2356"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 168.94727,400.51367 v 38.38477 h 40.16015 v -38.38477 z"
+       id="path2365"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

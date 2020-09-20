@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120.57362mm"
+   height="33.969475mm"
+   viewBox="0 0 120.57362 33.969475"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Job.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1035"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1798"
+       x="-0.077473596"
+       width="1.1549472"
+       y="-0.10382042"
+       height="1.2076408">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.040561"
+         id="feGaussianBlur1800" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1330"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61988094"
+         id="feGaussianBlur1332" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="54.540398"
+     inkscape:cy="36.085892"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.245944,-91.783115)">
+    <path
+       style="fill:#7b4141;fill-opacity:1;stroke-width:0.26458332"
+       d="m 49.60059,102.52405 a 41.455265,41.455265 0 0 0 -23.354646,7.40937 l 10.598319,15.25436 a 22.907224,22.907224 0 0 1 13.055015,-4.11654 22.907224,22.907224 0 0 1 3.874699,0.35398 l 3.144512,-18.30379 a 41.455265,41.455265 0 0 0 -7.317899,-0.59738 z"
+       id="path1262"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1342"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.2916667,44.223214)"
+       d="m 202.35742,225.12695 a 152.02796,152.02796 0 0 0 -72.06054,21.58594 l 29.18554,48.57422 a 95.459419,95.459419 0 0 1 49.11328,-13.71875 95.459419,95.459419 0 0 1 9.97657,0.54297 l 5.91601,-56.2793 a 152.02796,152.02796 0 0 0 -22.13086,-0.70508 z"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.99999994;filter:url(#filter1798)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#66ca78;fill-opacity:1;stroke-width:0.26458332"
+       d="m 48.248733,103.78805 a 40.224064,40.224064 0 0 0 -19.066017,5.71128 l 7.722007,12.85193 a 25.256971,25.256971 0 0 1 12.994555,-3.62975 25.256971,25.256971 0 0 1 2.639634,0.14366 L 54.10419,103.9746 a 40.224064,40.224064 0 0 0 -5.855457,-0.18655 z"
+       id="path1231"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#5bd5c7;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:0.37898093"
+       id="path1235"
+       sodipodi:type="arc"
+       sodipodi:cx="60.783298"
+       sodipodi:cy="111.98066"
+       sodipodi:rx="0.11811756"
+       sodipodi:ry="0.23623511"
+       sodipodi:start="4.7647489"
+       sodipodi:end="5.3930674"
+       d="m 60.78948,111.74475 a 0.11811756,0.23623511 0 0 1 0.06815,0.0523 l -0.07433,0.18359 z" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1915"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1917"><rect
+           id="rect1919"
+           width="94.64286"
+           height="51.07143"
+           x="165.71428"
+           y="355.37683" /></flowRegion><flowPara
+         id="flowPara1921">Núcleo</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 67.27976,108.57887 H 107.9122"
+       id="path1030"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="15.497024"
+       cy="108.76785"
+       cx="129.83482"
+       id="circle1304"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605;filter:url(#filter1330)" />
+    <circle
+       style="opacity:1;fill:#66ca78;fill-opacity:1;stroke:#000000;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605"
+       id="path1296"
+       cx="129.83482"
+       cy="108.76785"
+       r="15.497024" />
+    <text
+       id="text1340"
+       y="112.68622"
+       x="130.01053"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.88999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="112.68622"
+         x="130.01053"
+         id="tspan1338"
+         sodipodi:role="line">Job</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.01053"
+       y="112.53506"
+       id="text1336"><tspan
+         sodipodi:role="line"
+         id="tspan1334"
+         x="130.01053"
+         y="112.53506"
+         style="stroke-width:0.26458332">Job</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="114.94958mm"
+   height="66.523811mm"
+   viewBox="0 0 114.94958 66.523811"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Scheduler Síncrono - Funcionamiento - Ejecutando.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1449"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1447"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1443"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1441"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1330"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61988094"
+         id="feGaussianBlur1332" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-89.952093"
+     inkscape:cy="18.992511"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.811251,-36.545941)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1915"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1917"><rect
+           id="rect1919"
+           width="94.64286"
+           height="51.07143"
+           x="165.71428"
+           y="355.37683" /></flowRegion><flowPara
+         id="flowPara1921">Núcleo</flowPara></flowRoot>    <g
+       id="g1765"
+       transform="translate(70.681548,5.6696429)">
+      <path
+         style="opacity:1;fill:#c1c1c1;fill-opacity:1;stroke:#797979;stroke-width:3.64724398;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 188.39844,157.12305 c -17.90799,0 -32.32422,14.41623 -32.32422,32.32422 v 138.2539 h 169.07812 c 1.18715,0 2.14258,-0.95543 2.14258,-2.14258 V 157.12305 Z"
+         transform="scale(0.26458333)"
+         id="rect1480"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="opacity:0.744;fill:#ffffff;fill-opacity:1;stroke:#636363;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1580"
+       width="35.907738"
+       height="34.206848"
+       x="117.36161"
+       y="53.772324"
+       ry="8.5526304" />
+    <g
+       id="g1699"
+       transform="translate(70.681548,5.6696429)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="64.534019"
+         y="61.303448"
+         id="text1670"><tspan
+           sodipodi:role="line"
+           id="tspan1666"
+           x="64.534019"
+           y="61.303448"
+           style="font-size:7.05555534px;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332">Scheduler</tspan><tspan
+           sodipodi:role="line"
+           x="64.534019"
+           y="74.532616"
+           style="font-size:7.05555534px;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1668">síncrono</tspan></text>
+      <text
+         id="text1662"
+         y="61.102993"
+         x="64.534019"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;fill:#494949;fill-opacity:1;stroke-width:0.26458332"
+           y="61.102993"
+           x="64.534019"
+           id="tspan1660"
+           sodipodi:role="line">Scheduler</tspan><tspan
+           id="tspan1664"
+           style="font-size:7.05555534px;fill:#494949;fill-opacity:1;stroke-width:0.26458332"
+           y="74.332161"
+           x="64.534019"
+           sodipodi:role="line">síncrono</tspan></text>
+    </g>
+    <circle
+       r="15.497024"
+       cy="72.293152"
+       cx="88.068451"
+       id="circle1304"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605;filter:url(#filter1330)"
+       transform="matrix(0.77746127,0,0,0.77746127,66.35446,15.333217)" />
+    <circle
+       style="opacity:1;fill:#6691ca;fill-opacity:1;stroke:#000000;stroke-width:0.7502501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605"
+       id="path1296"
+       cx="134.82417"
+       cy="71.538345"
+       r="12.048336" />
+    <text
+       id="text1340"
+       y="74.584724"
+       x="134.96078"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.88999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.20570329"
+         y="74.584724"
+         x="134.96078"
+         id="tspan1338"
+         sodipodi:role="line">Job</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       x="134.96078"
+       y="74.467201"
+       id="text1336"><tspan
+         sodipodi:role="line"
+         id="tspan1334"
+         x="134.96078"
+         y="74.467201"
+         style="stroke-width:0.20570329">Job</tspan></text>
+    <path
+       style="fill:none;stroke:#930505;stroke-width:2.27763033;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.21951,36.545941 c 0,66.523809 0,66.523809 0,66.523809"
+       id="path2448"
+       inkscape:connector-curvature="0" />
+    <circle
+       transform="matrix(0.77746127,0,0,0.77746127,15.592252,15.333217)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605;filter:url(#filter1330)"
+       id="circle2458"
+       cx="88.068451"
+       cy="72.293152"
+       r="15.497024" />
+    <circle
+       r="12.048336"
+       cy="71.538345"
+       cx="84.062073"
+       id="circle2460"
+       style="opacity:1;fill:#66cac0;fill-opacity:1;stroke:#000000;stroke-width:0.7502501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.88999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       x="84.198677"
+       y="74.584724"
+       id="text2464"><tspan
+         sodipodi:role="line"
+         id="tspan2462"
+         x="84.198677"
+         y="74.584724"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.20570329">Job</tspan></text>
+    <text
+       id="text2468"
+       y="74.467201"
+       x="84.198677"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.20570329"
+         y="74.467201"
+         x="84.198677"
+         id="tspan2466"
+         sodipodi:role="line">Job</tspan></text>
+    <circle
+       r="15.497024"
+       cy="72.293152"
+       cx="88.068451"
+       id="circle2508"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605;filter:url(#filter1330)"
+       transform="matrix(0.77746127,0,0,0.77746127,-12.453583,15.333217)" />
+    <circle
+       style="opacity:1;fill:#66ca78;fill-opacity:1;stroke:#000000;stroke-width:0.7502501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.32165605"
+       id="circle2510"
+       cx="56.016243"
+       cy="71.538345"
+       r="12.048336" />
+    <text
+       id="text2514"
+       y="74.584724"
+       x="56.152847"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.88999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.20570329"
+         y="74.584724"
+         x="56.152847"
+         id="tspan2512"
+         sodipodi:role="line">Job</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.22813129px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20570329"
+       x="56.152847"
+       y="74.467201"
+       id="text2518"><tspan
+         sodipodi:role="line"
+         id="tspan2516"
+         x="56.152847"
+         y="74.467201"
+         style="stroke-width:0.20570329">Job</tspan></text>
+  </g>
+</svg>
