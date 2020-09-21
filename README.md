@@ -1,4 +1,4 @@
- #end-of-degree-project-tart
+ # end-of-degree-project-tart
 
  This is my end-of-degree project, it describes the base of a game engine which
  uses a work-stealing job and lock-free algorithms in order to have to take
